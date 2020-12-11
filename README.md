@@ -2,7 +2,7 @@
 
  #### For the app to work, configure Firebase:
  
- const firebaseConfig = {
+ `const firebaseConfig = {
   apiKey: '...YOUR_PARAMS...',
   authDomain: '...YOUR_PARAMS',
   databaseURL: '...YOUR_PARAMS',
@@ -11,7 +11,7 @@
   messagingSenderId: '...YOUR_PARAMS',
   appId: '...YOUR_PARAMS',
   measurementId: '...YOUR_PARAMS',
-};
+};`
 
 - Working with DOM tree elements, getting elements from the page, manipulating them (hiding, showing, creating new ones)
 - Working with selectors, especially classes: adding, removing and checking for the presence of classes
